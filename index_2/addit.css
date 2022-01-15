@@ -1,0 +1,123 @@
+body {
+    margin:0;
+}
+
+.tal {
+    margin-top: 50px;
+    font-size: 50px;
+    background: lightblue;
+    width: 600px;
+    height:400px;
+    box-shadow: sandybrown -24px -40px 15px 0px;
+    margin-bottom: 20px;
+}
+.ua {
+    box-sizing: border-box;
+    padding: 0 0 0 5px;
+    border-left: 4px solid red;
+}
+.pl {
+    height: 49px;
+    background-color: #540606;
+    color: white;
+    text-align:center;
+    font-size: 30px;
+}
+
+.aa {
+    margin-top: 20px;
+    height: 55px;
+    background-color:silver;
+    font-size: 25px;
+    padding-top: 15px;
+}
+.bb {
+    box-sizing: border-box;
+    height: 85px;
+    background-color: #155462;
+    font-size: 25px;
+    padding-top: 15px;
+}
+.cc {
+    height: 400px;
+    width: 400px;
+    background-color: springgreen;
+}
+.dd {
+    height: 350px;
+    width: 350px;
+    background-color: plum;
+    border-radius: 15px;
+}
+.boxes {
+    display: flex;
+    column-gap: 20px;
+    flex-wrap: wrap;
+}
+
+.use1 {
+    margin-top: 35px;
+    height: 80px;
+    width: 180px;
+    background-color: sandybrown;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 80px;
+    box-shadow: grey 17px 10px 5px 9px;
+}
+.use2 {
+    margin-top: 35px;
+    height: 80px;
+    width: 180px;
+    background-color: sandybrown;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 80px;
+    box-shadow: grey 35px 10px 12px 9px;}
+.use3 {
+    margin: 35px;
+    height: 80px;
+    width: 180px;
+    background-color: sandybrown;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 80px;
+    box-shadow: grey 17px 10px 16px 15px;
+}
+.boxes2 {
+    display: flex;
+    column-gap: 20px;
+    flex-wrap: wrap;
+}
+.use4 {
+    margin-top: 35px;
+    height: 80px;
+    width: 180px;
+    background-color: sandybrown;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 80px;
+    box-shadow: darkgrey 27px 19px 15px 11px;}
+
+
+.use5 {
+    margin:35px;
+    height: 80px;
+    width: 180px;
+    background-color: sandybrown;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 80px;
+    box-shadow: grey 14px 22px 5px 4px;
+}
+
+.use6 {
+    margin-top: 35px;
+    height: 80px;
+    width: 180px;
+    background-color: sandybrown;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 80px;
+    box-shadow: lightgrey 27px 19px 2px 2px;
+}
