@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    background:grey;
+}
+
+.firstA {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 270px;
+    height: 50px;
+    background-color: wheat;
+}
+
+.firstA > p {
+    text-align: center;
+    padding-top: 15px;
+}
+.elements {
+    display:flex;
+}
+.felement {
+    width: 50px;
+    height: 240px;
+    background-color: wheat;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+.belement {
+    width: 100px;
+    height: 75px;
+    background-color: wheat;
+    display: flex;
+    text-align: center;
+    padding-top: 55px;
+    padding-left: 125px;
+}
+
+.celement {
+    width: 70px;
+    height: 75px;
+    background-color: wheat;
+    text-align: center;
+    padding-top: 35px;
+}
+
+.delement {
+    width: 70px;
+    height: 75px;
+    background-color: wheat;
+    text-align: center;
+    padding-top: 35px;
+}
+.eelement {
+    width: 70px;
+    height: 75px;
+    background-color: wheat;
+    text-align: center;
+    padding-top: 35px;
+}

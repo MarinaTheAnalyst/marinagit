@@ -1,0 +1,54 @@
+body {
+    margin:0;
+}
+#widget {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 100px;
+    width: 380px;
+    background-color: blue;
+    text-align: center;
+    padding-top: 50px;
+    color: snow;
+    font-size: 35px;
+}
+#bigwidget {
+    display: flex;
+    margin-top: 10px;
+}
+.wdg1 {
+    margin-left: 10px;
+    height:80px;
+    width: 120px;
+    background-color: darkblue;
+    color: snow;
+    text-align: center;
+    padding-top: 40px;
+}.wdg2 {
+    margin-left: 10px;
+    height:80px;
+    width: 120px;
+    background-color: darkblue;
+    color: snow;
+    text-align: center;
+    padding-top: 40px;
+}.wdg3 {
+    margin-left: 10px;
+    height:80px;
+    width: 120px;
+    background-color: darkblue;
+    color: snow;
+    text-align: center;
+    padding-top: 40px;
+}
+#contact {
+    margin-top: 10px;
+    margin-left: 10px;
+    height:300px;
+    width: 380px;
+    background-color: blue;
+    color: snow;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 35px;
+}
