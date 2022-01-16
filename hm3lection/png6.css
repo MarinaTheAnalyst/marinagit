@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.hommie {
+    display: flex;
+    column-gap: 10px;
+    text-align: center;
+    margin-left: 10px;
+    align-items: center;
+    justify-content: center;
+    background: wheat;
+}
+.home, .about {
+    height: 350px;
+    width: 250px;
+    background-color: dodgerblue;
+    color: white;
+    font-size: 25px;
+    padding-top: 95px;
+}
