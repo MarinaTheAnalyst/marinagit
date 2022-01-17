@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+.universal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 25px;
+}
+.img1 {
+    width: 80px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: wheat;
+    border: 5px solid darkgrey;
+    position: relative;
+    top: 35px;
+    margin-left: 25px;
+    text-align: center;
+}
+.logo {
+    width: 150px;
+    height: 250px;
+    border: 2px solid grey;
+    text-align: center;
+}
+
+.logo>p{
+    padding-top: 15px;
+}
+.logo>p1{
+    border: 1px solid darkgrey;
+}
+.img1{
+    padding-top: 25px;
+}
+.img1>i {
+    font-size: 25px;
+}
+h3 {
+    padding-top:25px;
+}
