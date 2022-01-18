@@ -1,0 +1,33 @@
+body {
+    margin:0
+}
+.service {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+    column-gap: 20px;
+}
+.ser1 {
+    background-color: navajowhite;
+    height: 250px;
+    width:300px;
+    text-align: center;
+    border-right: 10px solid grey;
+}
+h2 {
+    font-size: 20px;
+    color: #a12828;
+}
+p1{
+    background-color: #155462;
+    color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+}
+i{
+    margin-top: 15px;
+    font-size: 25px;
+}
