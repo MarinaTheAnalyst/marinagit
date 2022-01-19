@@ -1,0 +1,61 @@
+body{
+    margin:0;
+}
+.color{
+    background-color: rebeccapurple;
+}
+.wd155{
+    width: 155px;
+}
+.wd250{
+    width: 250px;
+}
+
+.wd450 {
+    width: 450px;
+}
+
+.h200{
+    height:200px;
+}
+.h150{
+    margin-top: 25px;
+    height: 150px;
+}
+.h25 {
+    margin-top: 10px;
+    height: 25px;
+}
+.bdr60{
+    border-radius: 60px;
+}
+
+.bdr45{
+    border-radius: 45px;
+}
+
+.bdr10{
+    border-radius: 10px;
+}
+.bdr50 {
+    border-radius: 50%;
+    margin-left: 500px;
+}
+.h80{
+    height: 80px;
+}
+.ds {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mr10{
+    margin-top: 10px;
+}
+.mr65{
+    margin-top: 65px;
+}
+
+.cl{
+    column-gap: 25px;
+}
