@@ -1,0 +1,52 @@
+body {
+    margin:0;
+}
+.cube1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    column-gap: 10px;
+  }
+
+.cube{
+    background-color: hotpink;
+    color:navajowhite;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.wdt250{
+    width: 250px;
+}
+.wdt650{
+    width: 650px;
+}
+
+.wdt400{
+    width: 400px;
+}
+.ht150{
+    height: 150px;
+}
+
+.ht240{
+    height: 240px;
+}
+.pd150{
+    padding-top: 40px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 650px){
+
+  .sp {
+      flex-direction: column;
+      background-color: navajowhite;
+  }
+    .bc {
+        border-radius: 25px;
+        height: 50px;
+        width: 300px;
+        padding-bottom: 35px;
+    }
+}

@@ -59,6 +59,6 @@ body{
 .cl{
     column-gap: 25px;
 }
-.feature:nth-child(2n) > div{
+.feature>div:nth-child(2n){
    background-color:#00f564;
 }
