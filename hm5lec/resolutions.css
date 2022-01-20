@@ -43,9 +43,15 @@ body {
       flex-direction: column;
       background-color: navajowhite;
   }
-    .bc {
+    .cc {
         border-radius: 25px;
         height: 50px;
+        width: 300px;
+        padding-bottom: 35px;
+    }
+    .bc {
+        border-radius: 25px;
+        height: 250px;
         width: 300px;
         padding-bottom: 35px;
     }
