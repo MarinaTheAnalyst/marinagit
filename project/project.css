@@ -290,7 +290,7 @@
 
 .part_violet {
     position: absolute;
-    width: 1260px;
+    width: 1400px;
     height: 537px;
     background: #BD78F0;
     border-radius: 10px;
@@ -304,14 +304,16 @@
 
 .part_violet h4{
     font-size: 42px;
+    width: 500px;
     height: 192px;
     line-height: 48px;
-    letter-spacing: var(--letter-spacing4);
+    letter-spacing: 0.42px;
     color: var(--darkblue-color);
 }
 
 .violet_text p {
     padding-top: 39px;
+    width: 550px;
     height: 56px;
     font-size: 17px;
     line-height: 28px;
